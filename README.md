@@ -37,7 +37,7 @@ slider switch on the board and can be changed during any cycle.
 
 ## Lab 5
 
-A datapath was built for a state machien using registers, flip flops, and Mux to set control signals.
+A datapath was built for a state machine using registers, flip flops, and Mux to set control signals.
 The datapath consists of 4 Cycles:
 
 	In Cycle 1, the value of in Register R3 is stored in register RB.
