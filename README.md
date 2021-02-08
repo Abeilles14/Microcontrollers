@@ -1,5 +1,4 @@
 University of British Columbia
-CPEN 211
 
 *Isabelle Andre, Marcus Wong*
 
