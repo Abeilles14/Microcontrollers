@@ -71,8 +71,8 @@ Branching instructions implemented included B, BEQ, BNE, BLT, BLE, and BX, and B
 Support for function calls and returns was added using the Branch and link BL instruction and other
 instructions such as BX and BLX.
 
-This code was submitted in the Lab 8 class competition for fastest RISC Machine design and placed 14th out
-of 80 teams.
+This code was submitted in the Lab 8 class competition for fastest RISC Machine design and placed 4th out
+of 80+ teams.
  
 ## Lab 9
 
